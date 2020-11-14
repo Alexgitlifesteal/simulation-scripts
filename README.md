@@ -9,7 +9,8 @@ plot_bands_am.py relies on the data inputted to be in csv format, which is achie
 
 commandline examples
 
-*plot_bands_vera_updated.py*
+**plot_bands_vera_updated.py**
+
 -o CsPbBr3\CsPbBr3.out -b  CsPbBr3\CsPbBr3.bs -ymin -1 -ymax 4 -fileloc 'CsPbBr3\plots'
 
 -o MAPbBr3\Orthorhombic_MAPbBr3_1\MAPbBr3_cif_data_cell_optomised.out -b  MAPbBr3\Orthorhombic_MAPbBr3_1\MAPbBr3.bs -ymin -4 -ymax 4 -fileloc MAPbBr3\Orthorhombic_MAPbBr3_1\plots
@@ -22,6 +23,6 @@ commandline examples
 
 -o CsPbBr3\CsPbBr3.out -b CsPbBr3\CsPbBr3.bs -ymin -1 -ymax 4 -fileloc CsPbBr3\plots
 
-*plot_bands_am.py*
+**plot_bands_am.py**
 
 not yet completed. file input is hardcoded 
